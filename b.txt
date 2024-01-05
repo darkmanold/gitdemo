@@ -19,4 +19,4 @@ hinha
 hinha
 hinha
 hinha master test
-hinha
+hinha hot test
